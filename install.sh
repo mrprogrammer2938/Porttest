@@ -12,6 +12,7 @@ sudo apt update
 sudo apt upgrade
 sudo apt install python
 sudo apt install python3
+chmod +x porttest.py
 echo ""
 echo "finish!"
 # porttest
