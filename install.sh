@@ -1,6 +1,7 @@
 #!/usr/bin/bash
 # This code write by (ms.nope)
 # version 1.2.0
+clear
 echo "installing..."
 echo ""
 echo "   █▀▀█ █▀▀█ █▀▀█ ▀▀█▀▀ ▀▀█▀▀ █▀▀ █▀▀ ▀▀█▀▀" 
