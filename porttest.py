@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# This code write by (ms.nope)
+# This code write by (Mr.nope)
 import os
 import time
 class color:
@@ -27,8 +27,8 @@ def start():
 	|/       (_______)|/   \__/   )_(      )_(   (_______/\_______)   )_( """ + color.red + """" 
 	                        (🅟🅞🅡🅣🅣🅔🅢🅣)""" + color.green + """
 	                        [__ version 1.2.0          ]]]
-	                        [- This code write by (ms.nope)    -]
-    	                        [-ms.nope github account : ---[    """+ color.red + """https://github.com/msprogrammer2938/ ]]] """ + color.green + """
+	                        [- This code write by (Mr.nope)    -]
+    	                        [-ms.nope github account : ---[    """+ color.red + """https://github.com/mrprogrammer2938/ ]]] """ + color.green + """
 	                        [- usage 1 - and start package -----]""")
     print("\t1 - start portscan package")
     print("\t2 - Exit package... ")
